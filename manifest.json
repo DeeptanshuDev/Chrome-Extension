@@ -1,0 +1,14 @@
+{
+    "name": "Deeptanshu Jokes",
+    "version": "0.0.0.1",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup" : "popup.html",
+        "default_icon" : "logo.png"
+    },
+    "icons" : {
+        "128" : "logo.png",
+        "64" : "logo64.png"
+    }, 
+    "permissions" : ["activeTab"]
+} 
